@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/buying-bras/","tags":["Notes/Anecdote"],"created":"2024-02-03T11:14:07.000-04:00","updated":"2024-05-02T14:44:25.969-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/buying-bras/","tags":["Notes/Anecdote"],"created":"2024-02-03T11:14:07.000-04:00","updated":"2024-05-02T15:17:33.489-03:00"}
 ---
 
 In the Vox video [[04. Sources/Why everything you buy is worse now\|Why everything you buy is worse now]], the presenters cite the cost of a bra as being $30 ten years ago and the cost of manufacturing has increased so that if manufacturing costs were not overemphasized it might cost $50.00. And people don't want to spend more than $30 even though it was $30 ten years ago and labour costs have changed.[^1]
@@ -13,4 +13,4 @@ The only other thing I consistently pay a lot for, almost every year or so, are 
 I think this is the frustrating bit. I would argue that bras are essential. I cannot comfortably live my life outside of my home without one. Sports bras doubly so. We are told we must exercise to stay healthy and when you have a G cup exercise is not happening without a good fitting sports bra. I **cannot** run without proper running shoes. I **cannot** leave my house or exercise without a well-fitting appropriate bra. These are not about fashion trends. There are essentials. 
 
 ---
-[^1]: Frankly I disagree with this argument based on the 2022 Harvard Business Review report on increased markup from 2016-2019 ([[02. Notes/Excalidraw/Since 2006-2019 retailers have make 30 percent profit on mark up.excalidraw 1\|Since 2006-2019 retailers have make 30 percent profit on mark up.excalidraw 1]]) and price increases and 2023 reports indicating that corporate profits were driving inflation more usual.
+[^1]: Frankly I disagree with this argument based on the 2022 Harvard Business Review report on increased markup from 2016-2019 ([[02. Notes/Excalidraw/Since 2006-2019 retailers have make 30 percent profit on mark up.excalidraw 1\|Since 2006-2019 retailers have make 30 percent profit on mark up.excalidraw 1]]) and price increases and 2023 reports indicating that corporate profits were driving inflation more usual. See [[02. Notes/Notes/Why are goods and services so crappy?\|Why are goods and services so crappy?]] 
