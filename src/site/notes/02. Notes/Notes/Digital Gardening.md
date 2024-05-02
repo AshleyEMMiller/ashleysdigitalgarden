@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/digital-gardening/","tags":["Note","Note/MOC","✨"],"created":"2024-01-07T17:56:06.394-04:00","updated":"2024-04-30T20:26:23.454-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/digital-gardening/","tags":["Note","Note/MOC","✨"],"created":"2024-01-07T17:56:06.000-04:00","updated":"2024-04-30T20:26:23.000-03:00"}
 ---
 
 # Digital Gardens - An overview
 
 Digital Gardens are similar to a blog, but are thematic, constantly updated and living websites [^Le Cunff - Digital Garden]. A collection of notes, captures, finished pieces, and (depending on the tool) doodles, they showcase the creator's work and their behind-the-scenes thinking process. Another characteristic of digital gardens is that they are not chronological but conceptually ordered. Bi-directional linking allows readers to meander across different knowledge paths and ideas. 
 
-Digital Gardens afford the creator a self-owned platform for [[Learn In Public\|learning in public]] and [[Continuous Improvement\|Continuous Improvement]]. 
+Digital Gardens afford the creator a self-owned platform for [[02. Notes/Notes/Learn In Public\|learning in public]] and [[Continuous Improvement\|Continuous Improvement]]. 
 
 [^Le Cunff - Digital Garden]:: https://nesslabs.com/digital-garden-set-up
 ## Mind Gardening
