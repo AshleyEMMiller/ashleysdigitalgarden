@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-home/","tags":["gardenEntry"],"created":"2024-03-19T12:01:08.000-03:00","updated":"2024-05-03T12:13:55.829-03:00"}
+{"dg-publish":true,"permalink":"/digital-garden-home/","tags":["gardenEntry"],"created":"2024-03-19T12:01:08.000-03:00","updated":"2024-05-04T09:51:17.200-03:00"}
 ---
 
-![[4A3C968A-9FED-4B79-869C-A996CDF61E9D.png\|4A3C968A-9FED-4B79-869C-A996CDF61E9D.png]]
+![Digital Garden Home_image_1.png](/img/user/attach/Digital%20Garden%20Home_image_1.png)
 # Welcome
 This [[02. Notes/Notes/Digital Gardening\|Digital Garden]] is where I share a curated selection of my notes and rough work (a lá [[📘 Show Your Work!\|Show Your Work! by Austin Kleon]]). The idea of consistently trickling out useful output for others to see goes by many different names these days: [[02. Notes/Notes/Learn In Public\|Learn In Public]], Working with The Garage Door Open, Content as Learning Exhaust, etc. Regardless, I'm excited to have a platform for synthesizing and sharing what I'm learning and doing without worrying about ads and algorithms.
 
