@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/epistemic-disclosure/","tags":["Note"],"created":"2024-01-07T17:58:42.000-04:00","updated":"2024-04-30T20:17:01.000-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/epistemic-disclosure/","tags":["Note"],"created":"2024-01-07T17:58:42.433-04:00","updated":"2024-04-30T20:17:01.636-03:00"}
 ---
 
 # Details
