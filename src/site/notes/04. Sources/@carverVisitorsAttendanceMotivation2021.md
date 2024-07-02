@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-sources/carver-visitors-attendance-motivation2021/","tags":["#Source"],"created":"2024-03-01T09:38:05.000-04:00","updated":"2024-05-02T14:57:42.168-03:00"}
+{"dg-publish":true,"permalink":"/04-sources/carver-visitors-attendance-motivation2021/","tags":["#Source"],"created":"2024-03-01T09:38:05.671-04:00","updated":"2024-05-02T14:57:42.000-03:00"}
 ---
 
 # Tools and Activities
