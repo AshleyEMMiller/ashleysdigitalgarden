@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/humane-hierarchy/","tags":["Note"],"created":"2024-06-28T17:00:36.703-03:00","updated":"2024-06-28T20:16:34.660-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/humane-hierarchy/","tags":["Note"],"created":"2024-06-28T17:00:36.703-03:00","updated":"2024-07-02T20:28:02.161-03:00"}
 ---
 
 >[!depth] Epistemic Disclosure
@@ -9,12 +9,13 @@
 
 The Humane Hierarchy was developed by Dr. Susan Friedman and has been widely adopted by accreditation bodies. It falls under the [[LIMA\|LIMA]] framework of "Least invasive, minimally aversive" behaviour modification. The intent is to start from the bottom of the hierarchy to address problem behaviours step-wise moving from the bottom to the top. 
 
-I disagree with the stepwise approach for some behaviours (See comments at the end.) However, from the perspective of working with novice dog owners, there is value is asking them to go through the mental exercise of asking themselves a series of questions about the basis of problem behaviours. If your dog is under-exercised or in pain, you cannot address the problem behaviour until their health and enrichment needs are met. 
+I disagree that the stepwise approach must be employed for **all** behaviour problems. But it is valuable to consider what behaviour you can encourage to address annoying or problematic behaviours instead of only focusing on the behaviours you want to stop. Even from the perspective of those that employ punishment, [[04. Sources/@chanceFirstCourseApplied2006\|Chance (2006)]], [[04. Sources/Steve White's Eight Rules for Punishment\|White]] and [[04. Sources/Ian Dunbars Eight Rules for Punishment\|Dunbar]] all include a variation on "The learner mush know the alternative behaviour and be able to perform it" in their various rules around punishment. 
 
-I might even add an even lower tier beneath the Health, Nutrition and Physical Setting section about "Age and Development". Irith Bloom brought up in her webinar [[04. Sources/This means war - How to deal with fence fighting\|This means war - How to deal with fence fighting]] that, unfortunately, sometimes you have to wait for a dog's brain to develop before they can learn to stop doing a behaviour or self-regulating themselves. 
+From the perspective of working with novice dog owners, it is valuable to ask them to mentally exercise asking themselves a series of questions about the basis of problem behaviours. If your dog is under-exercised or in pain, you cannot address the problem behaviour until its health and enrichment needs are met. 
 
-This is not the only way or approach to dealing with problem behaviours. But it provides a useful framework. 
+I might even add an even lower tier beneath the Health, Nutrition and Physical Setting section about "Age and Development". Irith Bloom brought up in her webinar [[04. Sources/This means war - How to deal with fence fighting\|This means war - How to deal with fence fighting]] Unfortunately, sometimes you have to wait for a dog's brain to develop before they can learn to stop a behaviour or self-regulate. 
 
+This is not the only way or approach to dealing with problem behaviours. Other options include [[Desensitization\|Desensitization]] and [[Counter Conditioning\|Counter Conditioning]]. But it provides a useful framework to get started with things. 
 # The Hierarchy
 ![Humane hierarchy_image_1.png](/img/user/attach/Humane%20hierarchy_image_1.png)
 
@@ -50,6 +51,11 @@ Examples of **Antecedent Arrangement** include:
 
 Management will fail due to human error, equipment error, or other extenuating circumstances. It is not a permanent solution, but it is a first step to controlling the environment so that other strategies can be applied or taught to the dog. 
 ## Positive Reinforcement
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 The addition of something that increases the likelihood of a desirable behaviour. Paying your dog for what you want them to do. 
 
 In the context of problem behaviours, examples of behaviours to teach and reinforce include: 
@@ -59,6 +65,9 @@ In the context of problem behaviours, examples of behaviours to teach and reinfo
 - Calmly observing the environment/trigger
 
 >[!important] It is important that the dog's arousal is low enough that they can think clearly and can learn and perform the behaviours. The dog should not be near or above threshold. 
+
+
+</div></div>
 
 ## Differential Reinforcement of Alternate Behaviours
 >[!note] I would argue that this section should just be [[02. Dog Training/Training/Differential Reinforcement\|Differential Reinforcement]] as there are three main types (according to [[Applied Behaviour Analysis\|Applied Behaviour Analysis]]) that can be useful in these situations.
@@ -83,9 +92,15 @@ Examples of undesirable behaviours and reinforceable alternatives are:
 	- Alternate Behaviour: Going to a distant spot away from the door (e.g the top of a landing) and waiting there
 
 ### Differential Reinforcement of Low Rate
-A third kind of differential reinforcement is [[02. Dog Training/Training/Differential Reinforcement of Low Rate\|Differential Reinforcement of Low Rate]] (DRL). DRL is a way to decrease the intensity of a target behaviour by only reinforcing it when it is "smaller" in some way. Either the intensity of the behaviour (e.g. loudness of the bark), the frequency of a behaviour in a time window, or increasing the time between the behaviour. 
 
-In this situation [[02. Dog Training/Training/Shaping - Training Method\|Shaping]] may be used to gradually decrease the target behaviour's rate to a manageable level. 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+A third kind of differential reinforcement is [[02. Dog Training/Training/Differential Reinforcement of Low Rate\|Differential Reinforcement of Low Rate]] (DRL). DRL is a way to decrease the intensity of a target behaviour by only reinforcing it when it is "smaller" in some way. Either the intensity of the behaviour (e.g. loudness of the bark), the frequency of a behaviour in a time window, or increasing the time between the behaviour. In this situation [[02. Dog Training/Training/Shaping - Training Method\|Shaping]] may be used to gradually decrease the target behaviour's rate to a manageable level.  
+
+</div></div>
+
 
 ## Extinction
 If an operant behaviour is maintained because of reinforcers, removing reinforcers should decrease the frequency of a target behaviour. It will not completely remove a behaviour, but it will decrease it to manageable levels.
