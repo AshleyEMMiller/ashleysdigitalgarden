@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/mindframing/","tags":["Note"],"created":"2024-01-11T10:50:30.000-04:00","updated":"2024-05-02T15:05:48.080-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/mindframing/","tags":["Note"],"created":"2024-01-11T10:50:30.759-04:00","updated":"2024-05-02T15:05:48.000-03:00"}
 ---
 
 
