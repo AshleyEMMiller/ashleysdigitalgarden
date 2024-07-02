@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/digital-gardening/","tags":["Note","Note/MOC","✨"],"created":"2024-01-07T17:56:06.000-04:00","updated":"2024-04-30T20:26:23.000-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/digital-gardening/","tags":["Note","Note/MOC","✨"],"created":"2024-01-07T17:56:06.394-04:00","updated":"2024-04-30T20:26:23.454-03:00"}
 ---
 
 # Digital Gardens - An overview
