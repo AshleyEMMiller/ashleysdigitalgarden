@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/communities-of-practice/","tags":["Note"],"created":"2024-01-07T19:33:13.000-04:00","updated":"2024-05-02T15:04:49.293-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/communities-of-practice/","tags":["Note"],"created":"2024-01-07T19:33:13.958-04:00","updated":"2024-05-02T15:04:49.000-03:00"}
 ---
 
 # Background
