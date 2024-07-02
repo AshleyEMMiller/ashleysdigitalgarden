@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/dog-training/","tags":["Note"],"created":"2024-07-02T16:06:16.674-03:00","updated":"2024-07-02T16:10:34.526-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/dog-training/","tags":["Note","Notes/MOC"],"created":"2024-07-02T16:06:16.674-03:00","updated":"2024-07-02T20:16:18.841-03:00"}
 ---
 
 >[!depth] Epistemic Disclosure
->- Garden Status =  🌱
+>- Garden Status =  🌳
 >- Epistemic Effort =  ⛏️ ⛏️
 >- Epistemic Certainty =  👓
 
@@ -19,9 +19,33 @@ As of 2019, I have a CPDT certification and have taught classes and private sess
 
 I own two Doberman Pinschers, Kibeth and Loki. Loki is retired, and Kibeth is my sports dog, who I originally intended to get competition-ready, but I am currently addressing her behavioural issues. 
 
+# Core Concepts
+## Health, Development and Wellness
+- [[Canine Development and Aging\|Canine Development and Aging]]
+	- [[Puppyhood\|Puppyhood]]
+	- [[Senior Dogs\|Senior Dogs]]
 
-# Footnotes
 
-## Sources
+## Dog Behaviour
+- [[Social Facilitation\|Social Facilitation]]
+- [[Resource Guarding\|Resource Guarding]]
+- [[Dog Play\|Dog Play]]
+- [[02. Notes/Excalidraw/2023-09-05 - Canine Impulse control.excalidraw\| Impulse Control]]
 
-## Related
+## Learning and Training
+- [[02. Notes/Excalidraw/Operant and Classical Conditioning Diagrams.excalidraw\|Operant and Classical Conditioning Diagrams.excalidraw]]
+- [[02. Notes/Notes/Humane hierarchy\|Humane hierarchy]]
+- [[02. Notes/Notes/Operant Conditioning\|Operant Conditioning]]
+	- [[Positive Reinforcement\|Positive Reinforcement]]
+	- [[Positive Punishment\|Positive Punishment]]
+	- [[Negative Reinforcement\|Negative Reinforcement]]
+	- [[Negative Punishment\|Negative Punishment]]
+- [[02. Notes/Notes/Classical Conditioning\|Classical Conditioning]]
+
+
+# Sports and Skills
+## Life Skills
+
+## Tricks
+
+
