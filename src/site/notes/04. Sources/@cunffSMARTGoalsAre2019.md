@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-sources/cunff-smart-goals-are2019/","tags":["#Source"],"created":"2024-01-10T17:38:23.000-04:00","updated":"2024-05-02T14:57:34.245-03:00"}
+{"dg-publish":true,"permalink":"/04-sources/cunff-smart-goals-are2019/","tags":["#Source"],"created":"2024-01-10T17:38:23.773-04:00","updated":"2024-05-02T14:57:34.000-03:00"}
 ---
 
 # Processing and Reflecting
