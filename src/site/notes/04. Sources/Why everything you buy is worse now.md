@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-sources/why-everything-you-buy-is-worse-now/","tags":["#Source"],"created":"2024-02-03T10:28:33.000-04:00","updated":"2024-05-02T14:44:53.038-03:00"}
+{"dg-publish":true,"permalink":"/04-sources/why-everything-you-buy-is-worse-now/","tags":["#Source"],"created":"2024-02-03T10:28:33.000-04:00","updated":"2024-05-02T14:44:53.000-03:00"}
 ---
 
 
