@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/learn-in-public/","tags":["Note"],"created":"2024-04-30T21:09:13.000-03:00","updated":"2024-05-02T14:54:30.000-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/learn-in-public/","tags":["Note"],"created":"2024-04-30T21:09:13.055-03:00","updated":"2024-05-02T14:54:30.661-03:00"}
 ---
 
 I first came across the term "learning in public" from YouTuber Nicole van Der Hoeven, where she emphasizes sharing her learning as she goes. She positions herself as a guide (merely a few steps ahead in the process), instead of a guru (who appears to have it all figured out). [[Use it Or Lose It - How to Create things with your notes#^55a980\|Use it Or Lose It - How to Create things with your notes#^55a980]]. 
