@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/excalidraw/science-art-and-experience-sketchnotes/","tags":["Notes/VisualNotes"],"created":"2024-03-04T08:28:31.000-04:00","updated":"2024-05-02T14:53:42.600-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/excalidraw/science-art-and-experience-sketchnotes/","tags":["Notes/VisualNotes"],"created":"2024-03-04T08:28:31.176-04:00","updated":"2024-05-02T14:53:42.000-03:00"}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
