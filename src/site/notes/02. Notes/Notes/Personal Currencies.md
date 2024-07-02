@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/personal-currencies/","tags":["Notes/Atomic"],"created":"2024-01-11T13:58:14.000-04:00","updated":"2024-05-02T15:06:23.709-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/personal-currencies/","tags":["Notes/Atomic"],"created":"2024-01-11T13:58:14.597-04:00","updated":"2024-05-02T15:06:23.000-03:00"}
 ---
 
 Personal Currency is an concept from The Makers Collective, which I learned during their Side-Hustle 101 Course in 2020. 
