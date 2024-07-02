@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-sources/skywatching-seeing-and-understanding-cosmic-wonders/","tags":["#Td6C","Source/Course"],"created":"2024-03-22T11:48:19.000-03:00","updated":"2024-05-02T15:01:17.976-03:00"}
+{"dg-publish":true,"permalink":"/04-sources/skywatching-seeing-and-understanding-cosmic-wonders/","tags":["#Td6C","Source/Course"],"created":"2024-03-22T11:48:19.000-03:00","updated":"2024-05-02T15:01:17.000-03:00"}
 ---
 
 
