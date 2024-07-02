@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-sources/carver-visitors-attendance-motivation2021/","tags":["#Source"],"created":"2024-03-01T09:38:05.671-04:00","updated":"2024-05-02T14:57:42.000-03:00"}
+{"dg-publish":true,"permalink":"/04-sources/carver-visitors-attendance-motivation2021/","tags":["#Source"],"created":"2024-03-01T09:38:05.671-04:00","updated":"2024-07-02T20:49:52.572-03:00"}
 ---
 
 # Tools and Activities
@@ -100,10 +100,6 @@ Attendees had different motivations but were all directly linked to the eclipse 
 Over three-quarters of the respondents anticipated at least one experience similar to those outlined in Pekarik et al.'s Experience Anticipation model. Most wanted an Object/Phenomenon experience (i.e. to see the eclipse). Of those that did not anticipate an Object/Phenomenon experience half of them anticipated a Social Experience. One third anticipated an Introspective Experience and one-sixth anticipated a Cognitive Experience. One quarter anticipated more than one experience. 
 
 95% of the respondents indicated attendance motivations in alignment with Falks' Museum Identities model. Three quarters indicated a single motivation with the remaining expressing multiple motivations for attending. Most respondents could be categorized as Experience Seekers, given the comments on the rarity and significance of the eclipse. Many people indicated that they were Facilitators. Many people responded that they wanted to share the experience with their families and friends. No responses were categorizes as falling into the Respectful Pilgrims or Rechargers groups (surprising no one). 
-
-
-
-
 
 ### Research Question 2 - what engagement is manifest when individuals are prompted by a VINES-based brief intervention? 
 #### Content-Focused Engagement
