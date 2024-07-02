@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/learning-theories/","tags":["Note"],"created":"2024-02-04T15:18:10.000-04:00","updated":"2024-05-02T15:05:32.756-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/learning-theories/","tags":["Note"],"created":"2024-02-04T15:18:10.000-04:00","updated":"2024-05-02T15:05:32.000-03:00"}
 ---
 
 Theories of Learning of importance within Instructional Technology
