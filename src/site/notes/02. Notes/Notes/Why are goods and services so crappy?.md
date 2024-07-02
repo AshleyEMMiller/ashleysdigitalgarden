@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/why-are-goods-and-services-so-crappy/","tags":["Notes/Incomplete"],"created":"2024-02-03T12:02:05.000-04:00","updated":"2024-05-02T15:17:07.969-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/why-are-goods-and-services-so-crappy/","tags":["Notes/Incomplete"],"created":"2024-02-03T12:02:05.596-04:00","updated":"2024-05-02T15:17:07.000-03:00"}
 ---
 
 [[Planned obsolescence\|Planned obsolescence]], [[Consumerism\|Consumerism]] and [[Monopolies\|Monopolies]]
