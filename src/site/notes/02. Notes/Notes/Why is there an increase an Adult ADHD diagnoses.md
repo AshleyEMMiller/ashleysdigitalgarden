@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/why-is-there-an-increase-an-adult-adhd-diagnoses/","tags":["Note"],"created":"2023-12-05T10:30:17.000-04:00","updated":"2024-05-02T15:14:55.023-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/why-is-there-an-increase-an-adult-adhd-diagnoses/","tags":["Note"],"created":"2023-12-05T10:30:17.000-04:00","updated":"2024-05-02T15:14:55.000-03:00"}
 ---
 
 I have a speculation that more adults are diagnosed with ADHD in the last few years for a few reasons and I want to tease apart which factor has the biggest influence. Is it: 
