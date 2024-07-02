@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/the-boot-theory/","tags":["Notes/Atomic"],"created":"2024-02-03T10:57:18.000-04:00","updated":"2024-05-02T14:51:31.019-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/the-boot-theory/","tags":["Notes/Atomic"],"created":"2024-02-03T10:57:18.000-04:00","updated":"2024-05-02T14:51:31.000-03:00"}
 ---
 
 The Boots Theory, while merely as a musing from a character in a comedic fantasy book is a legitimate observation about the costs of poverty and how it enforces the cycle of poverty. 
