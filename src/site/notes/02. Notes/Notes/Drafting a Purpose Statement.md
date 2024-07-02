@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/drafting-a-purpose-statement/","tags":["Note"],"created":"2024-01-11T12:23:35.000-04:00","updated":"2024-05-02T15:06:47.038-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/drafting-a-purpose-statement/","tags":["Note"],"created":"2024-01-11T12:23:35.908-04:00","updated":"2024-05-02T15:06:47.000-03:00"}
 ---
 
 # Purpose Statements
