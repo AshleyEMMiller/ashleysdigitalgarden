@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/types-of-practice/","tags":["Note"],"created":"2023-12-08T11:20:31.000-04:00","updated":"2024-05-02T15:11:53.415-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/types-of-practice/","tags":["Note"],"created":"2023-12-08T11:20:31.000-04:00","updated":"2024-05-02T15:11:53.000-03:00"}
 ---
 
 I'm currently listening to a lecture series on Creativity and the Brain. It's fascinating and the lecturer talks about three types of practice:
