@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-home/","tags":["gardenEntry"],"created":"2024-03-19T12:01:08.000-03:00","updated":"2024-05-04T09:51:17.200-03:00"}
+{"dg-publish":true,"permalink":"/digital-garden-home/","tags":["gardenEntry"],"created":"2024-03-19T12:01:08.891-03:00","updated":"2024-05-04T09:51:17.000-03:00"}
 ---
 
 ![Digital Garden Home_image_1.png](/img/user/attach/Digital%20Garden%20Home_image_1.png)
