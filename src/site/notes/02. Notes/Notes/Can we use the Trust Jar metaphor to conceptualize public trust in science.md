@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/can-we-use-the-trust-jar-metaphor-to-conceptualize-public-trust-in-science/","tags":["Note","✨"],"created":"2024-01-07T19:27:11.000-04:00","updated":"2024-05-03T11:40:05.116-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/can-we-use-the-trust-jar-metaphor-to-conceptualize-public-trust-in-science/","tags":["Note","✨"],"created":"2024-01-07T19:27:11.455-04:00","updated":"2024-05-03T11:40:05.000-03:00"}
 ---
 
 >[!depth] Epistemic Disclosure
