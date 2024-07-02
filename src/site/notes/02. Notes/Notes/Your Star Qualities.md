@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/your-star-qualities/","tags":["Note"],"created":"2024-01-11T13:19:53.000-04:00","updated":"2024-05-02T15:12:20.855-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/your-star-qualities/","tags":["Note"],"created":"2024-01-11T13:19:53.564-04:00","updated":"2024-05-02T15:12:20.000-03:00"}
 ---
 
 ## Talents
