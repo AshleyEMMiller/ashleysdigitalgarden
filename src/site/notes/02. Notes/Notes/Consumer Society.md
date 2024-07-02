@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/consumer-society/","tags":["Notes/Atomic"],"created":"2024-01-07T19:34:12.000-04:00","updated":"2024-05-02T15:19:43.785-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/consumer-society/","tags":["Notes/Atomic"],"created":"2024-01-07T19:34:12.927-04:00","updated":"2024-05-02T15:19:43.000-03:00"}
 ---
 
 Consumer society is one where buying things is viewed a valuabe activity. The economic model seperates production and consumption as sources of economic growth. Prior to the 1950s and World War II, economic growth was focused on production. 
