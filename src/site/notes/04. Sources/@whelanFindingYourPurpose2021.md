@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-sources/whelan-finding-your-purpose2021/","tags":["#Source"],"created":"2024-01-11T12:17:23.000-04:00","updated":"2024-05-02T15:12:41.050-03:00"}
+{"dg-publish":true,"permalink":"/04-sources/whelan-finding-your-purpose2021/","tags":["#Source"],"created":"2024-01-11T12:17:23.274-04:00","updated":"2024-05-02T15:12:41.000-03:00"}
 ---
 
 # Processing and Reflecting
