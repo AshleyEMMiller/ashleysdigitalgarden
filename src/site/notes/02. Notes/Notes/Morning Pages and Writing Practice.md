@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/morning-pages-and-writing-practice/","tags":["Note"],"created":"2023-12-08T11:27:51.000-04:00","updated":"2024-07-02T11:25:11.572-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/morning-pages-and-writing-practice/","tags":["Note"],"created":"2023-12-08T11:27:51.000-04:00","updated":"2024-07-03T10:59:57.289-03:00"}
 ---
 
 # Natalie Goldbloom's Idea of Writing Practice
