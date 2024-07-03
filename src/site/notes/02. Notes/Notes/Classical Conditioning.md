@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/classical-conditioning/","tags":["Note"],"created":"2024-01-07T19:29:17.748-04:00","updated":"2024-07-02T16:06:19.737-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/classical-conditioning/","tags":["Note"],"created":"2024-01-07T19:29:17.748-04:00","updated":"2024-07-03T13:16:37.971-03:00"}
 ---
 
 >[!depth] Epistemic Disclosure
@@ -34,6 +34,6 @@ The Clicker ([[Marker Training\|Marker Training]]) is a classically conditioned 
 [^2023-SP-Web]:_Pavlov’s Dogs Experiment & Pavlovian Conditioning Response_. (2022, November 3). [https://www.simplypsychology.org/pavlov.html](https://www.simplypsychology.org/pavlov.html)
 
 ## Related
-- `=this.Parent`
+- [[Behaviourism\|Behaviourism]]
 -  `=this.Sibling`
 - `=this.Child`
