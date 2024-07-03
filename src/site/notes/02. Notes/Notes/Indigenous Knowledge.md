@@ -11,7 +11,7 @@
 
 - [[Traditional Ecological Knowledge\|Traditional Ecological Knowledge]]
 - [[02. Notes/Notes/Two-Eyed Seeing\|Two-Eyed Seeing]]
-- [[Two-Row Wampum\|Two-Row Wampum]] 
+- [[02. Notes/Notes/Two-Row Wampum\|Two-Row Wampum]] 
 
 
 
