@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-sources/mutual-aid-101/","tags":["#Td6C","Source/WebinarSeminar"],"created":"2024-02-21T19:31:06.017-04:00","updated":"2024-07-02T20:53:34.837-03:00"}
+{"dg-publish":true,"permalink":"/04-sources/mutual-aid-101/","tags":["#Td6C","Source/WebinarSeminar"],"created":"2024-02-21T19:31:06.017-04:00","updated":"2024-07-03T12:59:40.198-03:00"}
 ---
 
 
