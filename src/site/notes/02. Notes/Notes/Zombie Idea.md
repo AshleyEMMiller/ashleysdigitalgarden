@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/zombie-idea/","tags":["Notes/Atomic"],"created":"2024-07-02T16:14:17.978-03:00","updated":"2024-07-02T16:15:04.902-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/zombie-idea/","tags":["Notes/Atomic"],"created":"2024-07-02T16:14:17.978-03:00","updated":"2024-07-03T10:45:27.954-03:00"}
 ---
 
 >[!depth]- Epistemic Disclosure
