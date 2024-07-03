@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-home/","tags":["gardenEntry"],"created":"2024-03-19T12:01:08.891-03:00","updated":"2024-07-02T16:32:38.980-03:00"}
+{"dg-publish":true,"permalink":"/digital-garden-home/","tags":["gardenEntry"],"created":"2024-03-19T12:01:08.891-03:00","updated":"2024-07-03T10:59:18.151-03:00"}
 ---
 
 ![Digital Garden Home_image_1.png](/img/user/attach/Digital%20Garden%20Home_image_1.png)
@@ -28,7 +28,7 @@ Take a stroll through the garden. This site is organized by topic, not date (tho
 # 🧐 Topics of Interest
 - [[STEAM\|STEAM]]
 - [[Learning\|Learning]]
-- [[01. Personal/Values and Strengths/Creativity\|Creativity]]
+- [[01. Personal/Values and Strengths/Creativity - Principle\|Creativity - Principle]]
 - [[02. Notes/Notes/Dog Training\|Dog Training]]
 # 🎒What I'm up to
 - [[Reading Log\|Reading Log]]
