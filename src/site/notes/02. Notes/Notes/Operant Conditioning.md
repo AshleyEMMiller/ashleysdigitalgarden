@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/operant-conditioning/","tags":["Note"],"created":"2024-06-28T16:18:09.008-03:00","updated":"2024-07-02T20:19:25.127-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/operant-conditioning/","tags":["Note"],"created":"2024-06-28T16:18:09.008-03:00","updated":"2024-07-03T13:16:26.954-03:00"}
 ---
 
 >[!depth] Epistemic Disclosure
