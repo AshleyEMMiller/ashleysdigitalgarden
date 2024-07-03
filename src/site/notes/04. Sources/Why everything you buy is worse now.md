@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-sources/why-everything-you-buy-is-worse-now/","tags":["#Source"],"created":"2024-02-03T10:28:33.000-04:00","updated":"2024-05-02T14:44:53.000-03:00"}
+{"dg-publish":true,"permalink":"/04-sources/why-everything-you-buy-is-worse-now/","tags":["#Source"],"created":"2024-02-03T10:28:33.000-04:00","updated":"2024-07-03T10:22:36.000-03:00"}
 ---
 
 
@@ -13,7 +13,7 @@ For context, in the [[Design Process\|Design Process]] producers have to find a 
 As we transitioned from tailored clothing, to department stores to numerous stores (e.g. Malls in he 1980's 1990's) to online shopping where we don't even look at the clothing. 
 
 ### How often we buy
-The concept of [[Planned Obsolescence\|Planned Obsolescence]] as a government-mndated strategy was first proposed by [[Ernest Elmo Calkins\|Ernest Elmo Calkins]] in the 1930's during [[The Great Depression\|The Great Depression]], initially under the term [[Consumer Engineering\|Consumer Engineering]]. 
+The concept of [[02. Notes/Notes/Planned Obsolescence\|Planned Obsolescence]] as a government-mandated strategy was first proposed by [[Ernest Elmo Calkins\|Ernest Elmo Calkins]] in the 1930's during [[The Great Depression\|The Great Depression]], initially under the term [[Consumer Engineering\|Consumer Engineering]]. 
 
 Consumer engineering is what drives fashion trends that make us want to buy new things for no  functional reasons. Or perhaps there are microniches. The result is that we buy a lot. 
 
