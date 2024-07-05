@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/adhd-relevance-and-meaning-making/","tags":["Notes"],"created":"2024-07-03T12:39:42.940-03:00","updated":"2024-07-03T13:42:41.840-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/adhd-relevance-and-meaning-making/","tags":["Notes"],"created":"2024-07-03T12:39:42.940-03:00","updated":"2024-07-04T10:54:58.007-03:00"}
 ---
 
 >[!depth] Epistemic Disclosure
@@ -14,7 +14,7 @@
 A few years ago, I got a friend of mine onto [[Bullet Journal\|Bullet Journalling]] and, like me, she found the practice highly useful. Recently, I've been diagnosed with ADHD (sort of). I'd told this friend, and she's been listening to me make realizations and observations of my jerry-rigged compensations or self-accommodations for the past few months. After a chat she, Discord messaged me to mention that the creator of the Bullet Journal, Ryder Carrol, developed the system to help him get through life with his ADHD. I responded, 
 > "Yeah. I did but when I first found out it didn’t really mean anything to me at the time."
 
-[[Meaning-making\|Meaning-making]] is the interpretation people give to their information, objects and experiences that make them personally significant. [^1][^2]  If learning is a process of meaning-making it means (lol) we must acknowledge that identities and experiences shape the learning experience. [^1] Meaning-making is an active, continuous, and highly contextual process of assigning significance to life's events and new information. [^3]
+[[02. Notes/Notes/Meaning-making\|Meaning-making]] is the interpretation people give to their information, objects and experiences that make them personally significant. [^1][^2]  If learning is a process of meaning-making it means (lol) we must acknowledge that identities and experiences shape the learning experience. [^1] Meaning-making is an active, continuous, and highly contextual process of assigning significance to life's events and new information. [^3]
 
 When we think of science culture and science learning, how do we apply the concept of meaning-making? While [[sense-making\|sense-making]] is often used in the context of science subject matter, meaning-making is about personal connection to science. From a learning theory perspective, this is the "existential level" of meaning-making. The personal meaning, while informed by social context, is more relevant to the individual's life and path. [^4]
 
@@ -30,10 +30,9 @@ If we return to my earlier story about the fact that Ryder Carroll's ADHD inspir
 [^3]: [[04. Sources/Visitors' attendance motivation and meaning making at a public science event#^46c275\|Visitors' attendance motivation and meaning making at a public science event#^46c275]]
 [^4]: [[Learning as Meaning Making - (Zittoun and Brinkmann 2012)#^edd882\|Learning as Meaning Making - (Zittoun and Brinkmann 2012)#^edd882]]
 [^5]: [[Learning as Meaning Making - (Zittoun and Brinkmann 2012)#^6af8b7\|Learning as Meaning Making - (Zittoun and Brinkmann 2012)#^6af8b7]]
-[^6]: [[02. Notes/Excalidraw/Qualities of Meaning 2023-01-10 09.49.23.excalidraw\|Qualities of Meaning 2023-01-10 09.49.23.excalidraw]]
-[^7]: [[04. Sources/Visitors' attendance motivation and meaning making at a public science event#Implications\|Visitors' attendance motivation and meaning making at a public science event#Implications]]
+[^6]: [[02. Notes/Excalidraw/Qualities of Meaning.excalidraw\|Qualities of Meaning.excalidraw]]ttendance motivation and meaning making at a public science event#Implications]]
 
 ## Related
-Parents: [[Meaning-making\|Meaning-making]],[[02. Notes/Notes/ADHD\|ADHD]],[[02. Notes/Notes/Science Communication\|Science Communication]]
+Parents: [[02. Notes/Notes/Meaning-making\|Meaning-making]],[[02. Notes/Notes/ADHD\|ADHD]],[[02. Notes/Notes/Science Communication\|Science Communication]]
 Sibling: [[Bullet Journal\|Bullet Journal]],[[sense-making\|sense-making]]
 Child: `=this.Child`

@@ -52,9 +52,15 @@ Examples of **Antecedent Arrangement** include:
 Management will fail due to human error, equipment error, or other extenuating circumstances. It is not a permanent solution, but it is a first step to controlling the environment so that other strategies can be applied or taught to the dog. 
 ## Positive Reinforcement
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-notes/notes/positive-reinforcement/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
+
+
+>[!depth] Epistemic Disclosure
+>- Garden Status =  🌳
+>- Epistemic Effort =  ⛏️ ⛏️ ⛏️
+>- Epistemic Certainty =  👓
 
 The addition of something that increases the likelihood of a desirable behaviour. Paying your dog for what you want them to do. 
 
@@ -66,6 +72,16 @@ In the context of problem behaviours, examples of behaviours to teach and reinfo
 
 >[!important] It is important that the dog's arousal is low enough that they can think clearly and can learn and perform the behaviours. The dog should not be near or above threshold. 
 
+
+
+# Footnotes
+
+## Sources
+
+## Related
+Parents: `=this.Parent`
+Sibling: `=this.Sibling`
+Child: `=this.Child`
 
 </div></div>
 

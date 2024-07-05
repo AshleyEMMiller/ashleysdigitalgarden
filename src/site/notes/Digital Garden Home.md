@@ -26,7 +26,7 @@ Take a stroll through the garden. This site is organized by topic, not date (tho
 >	🌿Shrub (restructured, edited)
 >	🌴 Tree (returned to and polished)
 # 🧐 Topics of Interest
-- [[STEAM\|STEAM]]
+- [[02. Notes/Notes/STEAM\|STEAM]]
 - [[02. Notes/Notes/Learning\|Learning]]
 - [[01. Personal/Values and Strengths/Creativity - Principle\|Creativity - Principle]]
 - [[02. Notes/Notes/Dog Training\|Dog Training]]

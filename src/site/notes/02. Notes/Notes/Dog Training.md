@@ -36,7 +36,7 @@ I own two Doberman Pinschers, Kibeth and Loki. Loki is retired, and Kibeth is my
 - [[02. Notes/Excalidraw/Operant and Classical Conditioning Diagrams.excalidraw\|Operant and Classical Conditioning Diagrams.excalidraw]]
 - [[02. Notes/Notes/Humane hierarchy\|Humane hierarchy]]
 - [[02. Notes/Notes/Operant Conditioning\|Operant Conditioning]]
-	- [[Positive Reinforcement\|Positive Reinforcement]]
+	- [[02. Notes/Notes/Positive Reinforcement\|Positive Reinforcement]]
 	- [[Positive Punishment\|Positive Punishment]]
 	- [[Negative Reinforcement\|Negative Reinforcement]]
 	- [[Negative Punishment\|Negative Punishment]]

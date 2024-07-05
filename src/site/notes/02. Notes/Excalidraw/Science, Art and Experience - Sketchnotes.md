@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/excalidraw/science-art-and-experience-sketchnotes/","tags":["Notes/VisualNotes"],"created":"2024-03-04T08:28:31.176-04:00","updated":"2024-05-02T14:53:42.000-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/excalidraw/science-art-and-experience-sketchnotes/","tags":["Notes/VisualNotes"],"created":"2024-03-04T08:28:31.176-04:00","updated":"2024-07-04T11:10:04.069-03:00"}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Text Elements
+# Excalidraw Data
+## Text Elements
 Experience through learning
 { #1e1HrGhu}
 
@@ -489,8 +490,10 @@ body of knowledge
 { #pFoF7nHK}
 
 
+## Element Links
+qNUzutYW: [[04. Sources/@pughScienceArtExperience2007\|@pughScienceArtExperience2007]]
 
-# Embedded files
+## Embedded Files
 0617d89973c205879bbc27f8bf617cddedff2fa1: [[Pasted Image 20240304085711_398.png]]
 3cb13a896ca5f08685c24d0d1406946cb4aef065: [[Pasted Image 20240304092017_883.png]]
 b93880de4fd9746ae4a48dba91cb6b0546e82f00: [[Pasted Image 20240304092027_805.png]]
