@@ -46,7 +46,7 @@ There are many ways to [[02. Notes/Notes/Encoding\|encode]] information; however
 
 # Learning Environments and Contexts
 - [[Free-choice Learning\|Free-choice Learning]]
-- [[Formal Education\|Formal Education]]
+- [[02. Notes/Notes/Formal Education\|Formal Education]]
 - [[02. Notes/Notes/Informal Education\|Informal Education]]
 - [[Non-Formal Education\|Non-Formal Education]]
 # Hein's Quadrant of Educational Theories

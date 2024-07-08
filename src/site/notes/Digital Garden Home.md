@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-home/","tags":["gardenEntry"],"created":"2024-03-19T12:01:08.891-03:00","updated":"2024-07-03T10:59:18.151-03:00"}
+{"dg-publish":true,"permalink":"/digital-garden-home/","tags":["gardenEntry"],"created":"2024-03-19T12:01:08.891-03:00","updated":"2024-07-05T11:48:21.129-03:00"}
 ---
 
-![Digital Garden Home_image_1.png](/img/user/attach/Digital%20Garden%20Home_image_1.png)
+![Digital Garden Home_image_1.png](/img/user/05.%20Resources/Attachments/Digital%20Garden%20Home_image_1.png)
 # Welcome
 This [[02. Notes/Notes/Digital Gardening\|Digital Garden]] is where I share a curated selection of my notes and rough work (a lá [[📘 Show Your Work!\|Show Your Work! by Austin Kleon]]). The idea of consistently trickling out useful output for others to see goes by many different names these days: [[02. Notes/Notes/Learn In Public\|Learn In Public]], Working with The Garage Door Open, Content as Learning Exhaust, etc. Regardless, I'm excited to have a platform for synthesizing and sharing what I'm learning and doing without worrying about ads and algorithms.
 
@@ -28,7 +28,7 @@ Take a stroll through the garden. This site is organized by topic, not date (tho
 # 🧐 Topics of Interest
 - [[02. Notes/Notes/STEAM\|STEAM]]
 - [[02. Notes/Notes/Learning\|Learning]]
-- [[01. Personal/Values and Strengths/Creativity - Principle\|Creativity - Principle]]
+- [[02. Notes/Notes/Creativity\|02. Notes/Notes/Creativity]]
 - [[02. Notes/Notes/Dog Training\|Dog Training]]
 # 🎒What I'm up to
 - [[Reading Log\|Reading Log]]

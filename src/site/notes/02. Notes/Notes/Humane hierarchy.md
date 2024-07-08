@@ -17,7 +17,7 @@ I might even add an even lower tier beneath the Health, Nutrition and Physical S
 
 This is not the only way or approach to dealing with problem behaviours. Other options include [[Desensitization\|Desensitization]] and [[Counter Conditioning\|Counter Conditioning]]. But it provides a useful framework to get started with things. 
 # The Hierarchy
-![Humane hierarchy_image_1.png](/img/user/attach/Humane%20hierarchy_image_1.png)
+![Humane hierarchy_image_1.png](/img/user/05.%20Resources/Attachments/attach%201/Humane%20hierarchy_image_1.png)
 
 ## Health, Nutrition and Physical Setting
 Is the dog healthy? Is the dog pain-free? Is the dog safe? These are the first questions to be asked when dealing with a problem behaviour. If the dog is in pain, their tolerance and capacity to cope will be limited. If they are sick, the same is true. 

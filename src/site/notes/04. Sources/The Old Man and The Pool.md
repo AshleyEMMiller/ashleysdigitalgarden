@@ -15,7 +15,7 @@
 # Education
 ## Learning Environments and Contexts
 - [[Free-choice Learning\|Free-choice Learning]]
-- [[Formal Education\|Formal Education]]
+- [[02. Notes/Notes/Formal Education\|Formal Education]]
 - [[02. Notes/Notes/Informal Education\|Informal Education]]
 - [[Non-Formal Education\|Non-Formal Education]]
 
@@ -29,4 +29,4 @@
 </div></div>
 
 
-![The Old Man and The Pool_image_1.jpg](/img/user/attach/The%20Old%20Man%20and%20The%20Pool_image_1.jpg)
+![The Old Man and The Pool_image_1.jpg](/img/user/05.%20Resources/Attachments/attach%201/The%20Old%20Man%20and%20The%20Pool_image_1.jpg)

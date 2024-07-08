@@ -8,7 +8,7 @@
 # Education
 ## Learning Environments and Contexts
 - [[Free-choice Learning\|Free-choice Learning]]
-- [[Formal Education\|Formal Education]]
+- [[02. Notes/Notes/Formal Education\|Formal Education]]
 - [[02. Notes/Notes/Informal Education\|Informal Education]]
 - [[Non-Formal Education\|Non-Formal Education]]
 

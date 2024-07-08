@@ -18,7 +18,7 @@ Two main elements of operant conditioning overlap to form the Operant Conditioni
 	1. Positive
 	2. Negative
 
-![Operant Conditioning_image_1.png|500](/img/user/attach/Operant%20Conditioning_image_1.png)
+![Operant Conditioning_image_1.png|500](/img/user/05.%20Resources/Attachments/attach%201/Operant%20Conditioning_image_1.png)
 # ABCs of Behaviour
 ## Antecedent - Behaviour - Consequence
 ### Antecedent

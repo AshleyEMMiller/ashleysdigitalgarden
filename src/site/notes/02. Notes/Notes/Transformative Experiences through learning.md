@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/transformative-experiences-through-learning/","tags":["Note"],"created":"2024-03-27T11:02:48.099-03:00","updated":"2024-07-04T10:57:51.218-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/transformative-experiences-through-learning/","tags":["Note"],"created":"2024-03-27T11:02:48.099-03:00","updated":"2024-07-05T11:49:39.910-03:00"}
 ---
 
 >[!depth] Epistemic Disclosure
@@ -11,7 +11,7 @@ Science education, in its current iteration, emphasizes understanding and retain
 
 Rather than focusing on learning for the sake of learning and to get people into a career pipeline. Could we not perhaps explore opportunities to create meaningful, transformative experiences for students through learning? Not just arduous, stressful or standards-focused learning?
 
-[[04. Sources/@pughScienceArtExperience2007\|Pugh and Girod (2007)]] propose a framework for science education that takes its page from [[Dewey\|Dewey]] and his philosophy on [[01. Personal/Values and Strengths/Aesthetics\|aesthetics]] and [[transformative experiences\|transformative experiences]]. The framework aims to create transcendent experiences for learners when they learn new information, providing them the opportunity to connect the new knowledge they've been given with their out-of-class lives. 
+[[04. Sources/@pughScienceArtExperience2007\|Pugh and Girod (2007)]] propose a framework for science education that takes its page from [[Dewey\|Dewey]] and his philosophy on [[01. Personal/Values and Strengths/💛 Aesthetics\|💛 Aesthetics]] and [[transformative experiences\|transformative experiences]]. The framework aims to create transcendent experiences for learners when they learn new information, providing them the opportunity to connect the new knowledge they've been given with their out-of-class lives. 
 
 Dewey is well-known for his work on learning through doing, which Kolb drew on as he developed the [[Experiential Learning Model\|Experiential Learning Model]] (along with Kurt Lewin and Jean Piaget's work). Dewey was also fascinated with the idea of aesthetics. 
 

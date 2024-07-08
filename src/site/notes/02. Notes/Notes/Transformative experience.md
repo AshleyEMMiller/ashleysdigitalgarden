@@ -8,7 +8,7 @@
 >- Epistemic Certainty =  🥽
 
 According to [[04. Sources/@pughScienceArtExperience2007\|Pugh and Girod (2007)]] Dewey's idea of an "experience" was memorable and discrete from day-to-day life. The experience was built with anticipation and resolved with the learner having experienced a change in their perspective on the world and themselves. 
-![Transformative experience_image_1.png](/img/user/attach/Transformative%20experience_image_1.png)
+![Transformative experience_image_1.png](/img/user/05.%20Resources/Attachments/attach%201/Transformative%20experience_image_1.png)
 
 
 

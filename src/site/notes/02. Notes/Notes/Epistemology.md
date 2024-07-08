@@ -20,4 +20,4 @@ What are the legitimate knowledge generation frameworks, the rules of knowing [[
 ## Related
 Parents: [[02. Notes/Notes/Philosophy\|Philosophy]]
 Sibling: [[02. Notes/Notes/Ontology\|Ontology]]
-Child: [[02. Notes/Notes/Zombie Idea\|Zombie Idea]],[[02. Notes/Notes/Epistemic Disclosure\|Epistemic Disclosure]],[[01. Projects/02. Active/STEAM Framworks - Blog Series/STEAM Frameworks/STEAM Epistemic Practices\|STEAM Epistemic Practices]]
+Child: [[02. Notes/Notes/Zombie Idea\|Zombie Idea]],[[02. Notes/Notes/Epistemic Disclosure\|Epistemic Disclosure]],[[STEAM Epistemic Practices\|STEAM Epistemic Practices]]

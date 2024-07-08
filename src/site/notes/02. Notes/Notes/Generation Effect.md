@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/notes/generation-effect/","tags":["Note"],"created":"2024-07-03T12:55:02.275-03:00","updated":"2024-07-03T14:46:25.414-03:00"}
+{"dg-publish":true,"permalink":"/02-notes/notes/generation-effect/","tags":["Note"],"created":"2024-07-03T12:55:02.275-03:00","updated":"2024-07-05T11:48:21.068-03:00"}
 ---
 
 >[!depth] Epistemic Disclosure

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/04-sources/this-means-war-how-to-deal-with-fence-fighting/","tags":["#Td6C","Source/WebinarSeminar"],"created":"2024-06-27T20:03:49.157-03:00","updated":"2024-06-28T20:17:07.364-03:00"}
+{"dg-publish":true,"permalink":"/04-sources/this-means-war-how-to-deal-with-fence-fighting/","tags":["#Td6C","Source/WebinarSeminar"],"created":"2024-06-27T20:03:49.157-03:00","updated":"2024-07-07T14:48:58.074-03:00"}
 ---
 
-![This means war - How to deal with fence fighting_image_1.png|500](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_1.png)
+![This means war - How to deal with fence fighting_image_1.png|500](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_1.png)
 
 # Highlights and Captures
 ## Content
@@ -193,7 +193,7 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 
 
 ## Q&A Session
-![This means war - How to deal with fence fighting_image_2.png|500](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_2.png)
+![This means war - How to deal with fence fighting_image_2.png|500](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_2.png)
 - The similar motivation of frustration
 - Teach the dogs an organized way to deal with the situation
 - Mats
@@ -207,7 +207,7 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 - Routine stops them from feeling so frustrated
 - The entire lecture is about teaching the dog an [[Incompatible alternate behaviour\|Incompatible alternate behaviour]]
 
-![This means war - How to deal with fence fighting_image_3.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_3.png)
+![This means war - How to deal with fence fighting_image_3.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_3.png)
 - In an ideal situation the complaining dog should have been removed away
 - If the dog is barking at a trigger, remove them
 	- Window film is a great solution to reduce visual stimulation
@@ -215,7 +215,7 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 	- A gate at the entrance to the room 
 - Until you're ready to do the training and you're ready to do some practice
 
-![This means war - How to deal with fence fighting_image_4.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_4.png)
+![This means war - How to deal with fence fighting_image_4.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_4.png)
 - Assuming classic fence-fighting
 	- Hold a steady leash (like a post, don't pull back)
 	- The dog will look behind at you as if to say "Come on, can you not see this"
@@ -224,7 +224,7 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 		- Let the dog pull you, but don't go full speed
 	- Ideally, the dog will start to look at you sooner in the process and for longer
 	- Once the dog offers eye contact quickly, ask for an additional behaviour (more eye contact, sit, spin, heel, etc)
-	- [[Premack Principle\|Premack Principle]]:  High-probability behaviours can reinforce low-probability behaviours (assuming that the high probability behaviour is reinforcing)
+	- [[Premack Principle\|Premack Principle]]:  High-probability behaviours can reinforce low-probability behaviours (assuming that the high-probability behaviour is reinforcing)
 		- e.g. There is a high probability that your dog would like to eat a treat so this can be used to reinforce eye contact (which has lower probability). But if the dog isn't motivated by the treat, there must be another high-probability behaviour you can leverage in this situation.
 	- When the dog eases up on he barking, back off and reset and repeat
 	- You should see the dog come back with you more easily and come back with you more quickly
@@ -234,14 +234,14 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 - Overall, find what is more motivating for your dog
 	- Distractions are often the best reinforcements. Get what you want by giving them access to that distraction
 
-![This means war - How to deal with fence fighting_image_5.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_5.png)
+![This means war - How to deal with fence fighting_image_5.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_5.png)
 - Yes
 - Conditioning a different association
 	- Pair "Trigger" with "I'm having a good time"
 - Trigger precedes the trigger. 
 	- Noticeing the thing predicts that play will happen
 
-![This means war - How to deal with fence fighting_image_6.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_6.png)
+![This means war - How to deal with fence fighting_image_6.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_6.png)
 - Yes. 
 - "Call the Dogs Apart" Cue
 	- Dogs approach and then call them apart and each of them get a treat
@@ -251,7 +251,7 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 	- Separate them during the approach behaviour before the barking starts is ideal
 	- Puppies are good to practice this to learn to take breaks
 
-![This means war - How to deal with fence fighting_image_7.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_7.png)
+![This means war - How to deal with fence fighting_image_7.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_7.png)
 - Running inside is a great fall back plan
 - Condition your dog to "Neighbour Dog Barking" = Check-in with you
 	- You may need to be very very close with your dog and far away from the trigger
@@ -261,29 +261,29 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 - Keep the sessions extremely short (1-2 minutes)
 	- If you go too long, the built up stress will make it harder and harder for the dog to disengage
 
-![This means war - How to deal with fence fighting_image_8.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_8.png)
+![This means war - How to deal with fence fighting_image_8.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_8.png)
 - If the leash is needed to address the fence reaction. Or at least get started so you have some practice and tools to work with. But it doesn't need to be perfect
 	- Credits will start to transfer
 - Working in parallel an also be an option
 
-![This means war - How to deal with fence fighting_image_9.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_9.png)
+![This means war - How to deal with fence fighting_image_9.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_9.png)
 - It depends on the dog
 - You need to test it.
 - On average visual barriers are helpful and worth trying first
 - You can also record the sound, put up visual barrier and set the sound coming from a different place starting at a low level
 - Also it is helpful because the other dog/trigger cannot see/peer in
 
-![This means war - How to deal with fence fighting_image_10.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_10.png)
+![This means war - How to deal with fence fighting_image_10.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_10.png)
 - Distance
 	- It almost always helps regardless of the situation or motivation
 
-![This means war - How to deal with fence fighting_image_11.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_11.png)
+![This means war - How to deal with fence fighting_image_11.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_11.png)
 - This is why watching the dog is so important
 - We will not always hear what they heard or see what they saw
 - As soon as they "meerkat" start using treats and reinforcement
 - Even if they start play acting it's fine, because they're cognitively clear enough that they are not upset adn think of it as a fun game
 
-![This means war - How to deal with fence fighting_image_12.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_12.png)
+![This means war - How to deal with fence fighting_image_12.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_12.png)
 - In training locations, experiment with crating closer or further away to see which works better for this protocol:
 	- When the other dog gets taken for a turn, the other dog left behind gets the tastiest food toy that the dog doesn't get in any other situations
 - At home: 
@@ -296,7 +296,7 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 		- Pay attention to when the food toy runs out
 - This behaviour is somewhere between frustration and habit
 
-![This means war - How to deal with fence fighting_image_13.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_13.png)
+![This means war - How to deal with fence fighting_image_13.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_13.png)
 - With "Thank you for barking" sometimes the dog starts play acting or barking at you without even pretending that there is a trigger
 - Reset - [[Negative Punishment\|Negative Punishment]]
 	- Walk away from the dog when they start barking at you for treats (you can even go do something else)
@@ -307,13 +307,13 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 		- Standing still doesn't work well
 		- Walking away works better (go do something else)
 
-![This means war - How to deal with fence fighting_image_14.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_14.png)
+![This means war - How to deal with fence fighting_image_14.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_14.png)
 - In some situations using a second fence (~20 ft away) can help and decrease the excitement
 	- Drove stakes into the ground to create a temporary fence
 - Shrubs can help, but dogs are savy and will get under/between plants to get at the fence
 	- It does create a sound and visual barrier
 
-![This means war - How to deal with fence fighting_image_15.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_15.png)
+![This means war - How to deal with fence fighting_image_15.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_15.png)
 - Staying in place often builds arousal
 	- Dogs moving can dismiss the situation faster than dogs standing still
 - "Check It Out" is more about "Notice That"
@@ -326,7 +326,7 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 	- Stiffening posture
 >[!idea] Stay as cheerful as possible. Not because being cheerful will make it better but because being agitated makes it worse
 
-![This means war - How to deal with fence fighting_image_16.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_16.png)
+![This means war - How to deal with fence fighting_image_16.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_16.png)
 - If this happens during practice you can ask your instructor to get the other dogs to stay further away
 	- Before you start your run walk the perimeter of the course and play "check it out"
 		- Saw a dog have a treat, saw a dog have a tug, saw a dog do an obstacle
@@ -337,7 +337,7 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 	- See if you can practice running the obstacles without other dogs present to make them very valuable
 	- Play check-it out at the start line
 
-![This means war - How to deal with fence fighting_image_17.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_17.png)
+![This means war - How to deal with fence fighting_image_17.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_17.png)
 - In the beginning you need to let them get the full value of the reinforcer, let them run and chase until they're done
 - Eventually, the birds are far enough away that they are no longer as motivating as the person with treats/toys ets
 - Don't let it go for more than a minute or two
@@ -349,9 +349,9 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 	- In this scenario: 
 		- At the Start: Chasing Birds is very reinforcing, Eye Contact is not reinforced
 		- During the Process: Chasing birds is reinforcing, Eye contact is reinforced by chasing birds
-		- As it progresses: Eye contact is heavily reinforced, Chasing birds is reinforced
+		- As it progresses: Eye contact is heavily reinforced, Chasing birds is reinforcing/enjoyable
 
-![This means war - How to deal with fence fighting_image_18.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_18.png)
+![This means war - How to deal with fence fighting_image_18.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_18.png)
 - Play with distance. How far away do you need to be from the fence line to keep your dog focused on you
 - Leash your dog to prevent accidental reinforcement
 	- Be concerned about the welfare of the second dog
@@ -362,7 +362,7 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 - use [[Proofing\|Proofing]] to difficult scenarios 
 - Build habits of engagement
 
-![This means war - How to deal with fence fighting_image_19.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_19.png)
+![This means war - How to deal with fence fighting_image_19.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_19.png)
 - They're a bit loose
 - Simply: 
 	- Dog barks, call dog, give treat, if they bark again treat again
@@ -372,7 +372,7 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 	- Worse-case scenario you get one bark and the come to you
 	- Best-case scenario you get no barks, but alert then find a person
 
-![This means war - How to deal with fence fighting_image_20.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_20.png)
+![This means war - How to deal with fence fighting_image_20.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_20.png)
 - Get closer and interrupt on that first bark
 - Hardcore: 
 	- I'll only reinforce when you've barked less than 3 times (or something similar) after I've called you on the first bark
@@ -383,7 +383,7 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 	- How much/how long does she bark now and use that as a baseline to [[02. Dog Training/Training/Shaping - Training Method\|Shaping]]
 - Once dogs realize they can get paid for barking they will become very confused if the payment stops and they will come and find you
 
-![This means war - How to deal with fence fighting_image_21.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_21.png)
+![This means war - How to deal with fence fighting_image_21.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_21.png)
 - Sometimes (unfortunately) it is about age and you have to just wait until their brain develops when they're young as puppies and adolescents
 - Licky-Mats
 - Extra distance
@@ -398,4 +398,4 @@ There are several (potentially overlapping) causes for fence fighting/barrier fr
 
 ## Next Steps
 Irith pronounced ee-reet
-![This means war - How to deal with fence fighting_image_22.png](/img/user/attach/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_22.png)
+![This means war - How to deal with fence fighting_image_22.png](/img/user/05.%20Resources/Attachments/This%20means%20war%20-%20How%20to%20deal%20with%20fence%20fighting_image_22.png)

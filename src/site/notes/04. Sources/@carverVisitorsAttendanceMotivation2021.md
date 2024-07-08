@@ -268,7 +268,7 @@ The study demonstrates that adults may be willing to reflect on a science experi
  
 - <mark class="hltr-magenta">As shown in Figure 1, the left side of the continuum shows the major focus of engagement falling within the content,</mark> [p6](zotero://open-pdf/library/items/GMUYU2AW?page=6&annotation=KBVTDVVD) 
  
-![@carverVisitorsAttendanceMotivation2021_image_1.png](/img/user/attach/@carverVisitorsAttendanceMotivation2021_image_1.png) 
+![@carverVisitorsAttendanceMotivation2021_image_1.png](/img/user/05.%20Resources/Attachments/attach%201/@carverVisitorsAttendanceMotivation2021_image_1.png) 
  
 - <mark class="hltr-magenta">meaning that much of the visitor’s thoughts, motivations, and emotions are likely to be heavily related to the actual object, artifact, or phenomenon.</mark> [p7](zotero://open-pdf/library/items/GMUYU2AW?page=7&annotation=GV33KBW5) 
  
@@ -332,9 +332,9 @@ The study demonstrates that adults may be willing to reflect on a science experi
  
 - <mark class="hltr-gray">Self-relevance focused responses were operationalized as referring to personal qualities and characteristics or autobiographical life events.</mark> [p9](zotero://open-pdf/library/items/GMUYU2AW?page=9&annotation=F7K795HQ) 
  
-![@carverVisitorsAttendanceMotivation2021_image_2.png](/img/user/attach/@carverVisitorsAttendanceMotivation2021_image_2.png) 
+![@carverVisitorsAttendanceMotivation2021_image_2.png](/img/user/05.%20Resources/Attachments/attach%201/@carverVisitorsAttendanceMotivation2021_image_2.png) 
  
-![@carverVisitorsAttendanceMotivation2021_image_3.png](/img/user/attach/@carverVisitorsAttendanceMotivation2021_image_3.png) 
+![@carverVisitorsAttendanceMotivation2021_image_3.png](/img/user/05.%20Resources/Attachments/attach%201/@carverVisitorsAttendanceMotivation2021_image_3.png) 
  
 - <mark class="hltr-gray">When science content was explained and then connected to the respondent’s specific life experiences, it was coded as a co-occurrence of content and perceived self-relevance.</mark> [p10](zotero://open-pdf/library/items/GMUYU2AW?page=10&annotation=HXCYXF88) 
  
